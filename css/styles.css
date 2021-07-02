@@ -6,4 +6,6 @@
   box-sizing: border-box;
 }
 
-x
+body {
+  font-family: 'Montserrat', sans-serif;
+}
